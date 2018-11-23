@@ -5,5 +5,8 @@ header-img: img/bike.jpeg     #显示在首页的背景图片
 email: mtry000@gmail.com    
 description: "就是想做点什么"              #网站介绍
 keyword: "比克的博客" #关键词
+sidebar: true 
+sidebar-about-description: "说点装逼的话。。。"
+sidebar-avatar: "/img/bike.jpeg"
 featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 0
