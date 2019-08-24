@@ -1,12 +1,12 @@
 theme: jekyll-theme-cayman
-title: 年轻的比克                     #你博客的标题
-SEOTitle: 年轻的比克     #显示在浏览器上搜索的时候显示的标题
+title: GuoHui                     #你博客的标题
+SEOTitle: GuoHui     #显示在浏览器上搜索的时候显示的标题
 header-img: img/bike.jpeg     #显示在首页的背景图片
 email: mtry000@gmail.com    
-description: "就是想做点什么"              #网站介绍
+description: "建筑设计"              #网站介绍
 keyword: "比克的博客" #关键词
 sidebar: true 
-sidebar-about-description: "说点装逼的话。。。"
+sidebar-about-description: "高端大气上档次"
 sidebar-avatar: "/img/bike.jpeg"
 featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 0
